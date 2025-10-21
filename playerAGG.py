@@ -15,3 +15,5 @@ class Player:
 
     def __str__(self):
         return f"name = {self.__name}, position = {self.__position}"
+
+#test

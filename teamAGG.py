@@ -15,3 +15,5 @@ class Team:
 
     def __str__(self):
         return f"team Name = {self.__name}, sport = {self.__sport}, location = {self.__location}"
+
+#test
