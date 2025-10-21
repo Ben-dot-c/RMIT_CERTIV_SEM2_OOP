@@ -52,4 +52,3 @@ class SportsApp:
             x += 1
 
 SportsApp.main()
-#test
